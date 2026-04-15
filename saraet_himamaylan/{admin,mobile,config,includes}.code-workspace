@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "{admin,mobile,config,includes}"
+		},
+		{
+			"path": "admin"
+		},
+		{
+			"path": "config"
+		},
+		{
+			"path": "includes"
+		},
+		{
+			"path": "mobile"
+		}
+	]
+}
